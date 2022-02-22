@@ -1,8 +1,8 @@
 id,Rollercoaster Name,Amusement Park,City,Country,Region,Construction Material,Height,Speed,Length,Inversion,Number of Inversions,Year Opened
 1,Montana Rusa Infantil,Parque de la Ciudad,"Buenos Aires, BA",Argentina,Latin America,Steel,3.0,30.0,190.0,No,0.0,1983.0
 2,Percy's Railway,Six Flags Magic Mountain,Valencia,USA,North America,Steel,3.048,16.2,107.0,No,0.0,1971.0
-3,Marienkafer Hochbahn,Churpfalzpark,"Loifling, Bavaria",Germany,Europe,Steel,3.3,300,60.0,No,0.0,1983.0
-4,Froschbahn,Bayern Park,"Reisbach, Bavaria",Germany,Europe,Steel,3.3,26.0,60.0,No,0.0,1995.0
+3,Marienkafer Hochbahn,Churpfalzpark,"Loifling, Bavaria",Germany,Europe,Steel,3.3,26,60.0,No,0.0,1983.0
+4,Froschbahn,Bayern Park,"Reisbach, Bavaria",Germany,Europe,Steel,3.3,200.0,60.0,No,0.0,1995.0
 5,Ronde des Rondins,Parc Asterix,"Plailly, Picardie",France,Europe,Steel,3.3,26.0,60.0,No,0.0,1991.0
 6,Catarrinos,Parque Plaza Sesamo,Monterrey,Mexico,Latin America,Steel,3.3,26.0,60.0,No,0.0,2006.0
 7,Wilde Mini Maus,Lollihop,"Munich, Bavaria",Germany,Europe,Steel,3.5,25.0,60.0,No,0.0,2007.0

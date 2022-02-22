@@ -1,7 +1,7 @@
 id,Rollercoaster Name,Amusement Park,City,Country,Region,Construction Material,Height,Speed,Length,Inversion,Number of Inversions,Year Opened
 1,Montana Rusa Infantil,Parque de la Ciudad,"Buenos Aires, BA",Argentina,Latin America,Steel,3.0,30.0,190.0,No,0.0,1983.0
 2,Percy's Railway,Six Flags Magic Mountain,Valencia,USA,North America,Steel,3.048,16.2,107.0,No,0.0,1971.0
-3,Marienkafer Hochbahn,Churpfalzpark,"Loifling, Bavaria",Germany,Europe,Steel,3.3,260.0,60.0,No,0.0,1983.0
+3,Marienkafer Hochbahn,Churpfalzpark,"Loifling, Bavaria",Germany,Europe,Steel,3.3,26.0,60.0,No,0.0,1983.0
 4,Froschbahn,Bayern Park,"Reisbach, Bavaria",Germany,Europe,Steel,3.3,26.0,60.0,No,0.0,1995.0
 5,Ronde des Rondins,Parc Asterix,"Plailly, Picardie",France,Europe,Steel,3.3,26.0,60.0,No,0.0,1991.0
 6,Catarrinos,Parque Plaza Sesamo,Monterrey,Mexico,Latin America,Steel,3.3,26.0,60.0,No,0.0,2006.0
@@ -12,7 +12,7 @@ id,Rollercoaster Name,Amusement Park,City,Country,Region,Construction Material,H
 11,Familien-Achterbahn,Eifelpark,"Gondorf, Rhineland-Palatinate",Germany,Europe,Steel,4.5,30.0,128.0,No,0.0,1995.0
 12,Indy-Blitz,Heide-Park Soltau,"Soltau, Lower Saxony",Germany,Europe,Steel,4.5,30.0,128.0,No,0.0,2008.0
 13,Familien-Achterbahn,Tolk Schau,"Tolk, Schleswig-Holstein",Germany,Europe,Steel,4.5,30.0,128.0,No,0.0,2000.0
-14,Familienachterbahn,Erse-Park,"Uetze, Lower Saxony",Germany,Europe,Steel,4.5,30.0,128.0,No,0.0,1992.0
+14,Familienachterbahn,Erse-Park,"Uetze, Lower Saxony",Germany,Europe,Steel,4.5,100.0,128.0,No,0.0,1992.0
 15,Eichh rnchenbahn,Freizeitpark Lochmuhle,"Wehrheim, Hesse",Germany,Europe,Steel,4.5,30.0,128.0,No,0.0,1992.0
 16,Die! Wilde Maus,Serengeti Park,"Hodenhagen, Lower Saxony",Germany,Europe,Steel,4.9,22.5,165.0,No,0.0,2007.0
 17,Alpen Blitz,Parque de la Ciudad,"Buenos Aires, BA",Argentina,Latin America,Steel,5.0,72.0,210.0,No,0.0,1984.0
